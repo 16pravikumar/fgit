@@ -1,0 +1,109 @@
+Can u hear me?
+Fri, Jul 22, 2022
+no
+Fri, Jul 22, 2022
+TCS (TATA Consultancy Service)
+Software Developer
+ June 2022 – Present ½ Bangalore,India
+Fri, Jul 22, 2022
+Primary Skills:
+
+Strong Application Development background in Backend.
+Good understanding of Data Structures and algorithms.
+Hands on with Database
+Front End: React/Angular/Vu.js
+Back End:
+Java or
+.Net or
+Python or
+NodeJs or
+Experience with development of unit test/integration test cases.
+Experience with Version Control systems such as GIT, Bitbucket etc.
+Strong problem-solving skills
+
+
+Awareness Of:
+
+Cloud foundation (AWS, Docker and Kubernetes)
+Experience with dependency management and build systems
+Continuous Integration/Deployment Tools (Jenkins)
+TDD
+Agile/Scrum
+Git/Stash
+NoSQL
+Linux Shell Scripting
+JIRA Workflow management system
+
+
+Responsibilities:
+
+Develop well structured, modular, optimized, secure and clean code that is testable
+Work on assigned task with minimum guidance
+Develop unit tests for the features
+Collaborate effectively with other teams/team members via verbal or written communication
+Follow established processes
+Lean and grow to be competitive in the industry
+Fri, Jul 22, 2022
+you are not audible
+Fri, Jul 22, 2022
+Explain the architecture of AngularJS
+Fri, Jul 22, 2022
+What is the difference between React.memo() vs. useMemo()
+Fri, Jul 22, 2022
+How is an Array different from Linked List in Android Java?
+Fri, Jul 22, 2022
+What are the different types of garbage collectors in Java?
+Fri, Jul 22, 2022
+What is fail fast and fail safe? When can we get ConcurrentModificationException?
+Fri, Jul 22, 2022
+What Is a Default Method and When Do We Use It?
+Fri, Jul 22, 2022
+What is observable in Angular and can you tell the difference between Promises and Observable
+Fri, Jul 22, 2022
+What is a deadlock in Java? How will you detect and get rid of deadlocks?
+Fri, Jul 22, 2022
+What is the output of the below code and why?
+public class Interview{
+public static void main(String[] args)
+{
+System.out.println('b' + 'i' + 't');
+}
+}
+Fri, Jul 22, 2022
+"b"+"i"+"t"
+Fri, Jul 22, 2022
+Will the Following Code Compile?
+@FunctionalInterface
+public interface Function2<T, U, V> {
+public V apply(T t, U u);
+default void count() {
+// increment counter
+}
+}
+Fri, Jul 22, 2022
+class Test
+{
+public static void main (String args[])
+{
+System.out.println(1 + 2 + "Java");
+System.out.println("Java" + 1 + 2);
+}
+}
+Fri, Jul 22, 2022
+What is the output of the following code?
+class Interview{
+int fun (int n)
+{
+int result;
+result = fun (n - 1);
+return result;
+}
+}
+class Driver{
+public static void main(String args[])
+{
+Interview ib = new Interview() ;
+System.out.print(ib.fun(12));
+}
+}
+Fri, Jul 22, 2022
